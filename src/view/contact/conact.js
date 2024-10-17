@@ -7,8 +7,9 @@ function conact() {
     <div>
         <Navbar/>
         <div className="contact">
-            </div>
-            <Footer/>
+        <h2>This is Contactpage</h2>
+        </div>
+        <Footer/>
     </div>
   )
 }

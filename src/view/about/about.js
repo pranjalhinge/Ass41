@@ -7,9 +7,9 @@ function about() {
     <div>
         <Navbar/>
         <div className="about">
-        about
+        <h2>This is aboutpage</h2>
         </div>
-    <Footer/>
+        <Footer/>
     </div>
   )
 }
