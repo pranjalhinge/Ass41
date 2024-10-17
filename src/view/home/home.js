@@ -7,7 +7,7 @@ function Home() {
     <div>
         <Navbar/>
         <div className="home">
-        
+        <h1>This is homepage</h1>
         </div>
         <Footer/>
     </div>
